@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jameers23&color=brightgreen)
 
-Welcome to my GitHub profile! I’m **Shaik Jameer Basha**, an aspiring Data Scientist passionate about solving real-world problems through **data-driven insights** and machine learning models. I have experience across **data analysis**, **visualization**, **cloud platforms**, and **end-to-end ML workflows**. 
+Welcome to my GitHub profile! I’m **Jameer**, Data & AI Engineer passionate about solving real-world problems through **data-driven insights** and machine learning models. I have experience across **data analysis**, **visualization**, **cloud platforms**, and **end-to-end ML workflows**. 
 
 ---
 

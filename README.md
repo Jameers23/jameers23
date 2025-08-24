@@ -1,4 +1,4 @@
-# 🚀 Aspiring Data Scientist
+# 🚀 Data & AI Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jameers23&color=brightgreen)
 
